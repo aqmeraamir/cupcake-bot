@@ -1,11 +1,5 @@
-<?php?>
+<?php
 
-<!DOCTYPE html>
-<html>
-<body>
+include_once("index.html");
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
-
-</body>
-</html>
+?>
