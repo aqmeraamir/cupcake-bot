@@ -30,7 +30,7 @@ let embed = new Discord.MessageEmbed()
 .setURL("https://discordapp.com/oauth2/authorize?client_id=666759786074996746&scope=bot&permissions=2146958847")
 .setTitle(client.user.username + "'s Commands")
 .setFooter("!help <command> for more info!")
-.setDescription("To toggle between pages use the following reactions:\n\n◀ - **Go Back a page**\n⏹ - **Delete this messagel**\n▶ - **Go Forward a page**\n\n- [Invite this bot](https://discordapp.com/oauth2/authorize?client_id=666759786074996746&scope=bot&permissions=0&redirect_uri=https%3A%2F%2Fbit.ly%2Fcupcake-bot-discord)\n- [Join Official Discord](https://discord.gg/9jGgGQ9)")
+.setDescription("To toggle between pages use the following reactions:\n\n◀ - **Go Back a page**\n⏹ - **Delete this message**\n▶ - **Go Forward a page**\n\n- [Invite this bot](https://discordapp.com/oauth2/authorize?client_id=666759786074996746&scope=bot&permissions=0&redirect_uri=https%3A%2F%2Fbit.ly%2Fcupcake-bot-discord)\n- [Join Official Discord](https://discord.gg/9jGgGQ9)")
 .setAuthor(message.author.username, message.author.displayAvatarURL())
 let msg = await message.channel.send(embed)
 
