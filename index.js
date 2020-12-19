@@ -12,7 +12,17 @@ mongoose.connect(process.env.url, { useNewUrlParser: true, useUnifiedTopology: t
 const mongoCurrency = require('discord-mongo-currency');
  
 mongoCurrency.connect(process.env.url);
+const express = require('express')
+const app = express()
+const port = 3000
 
+app.get('/', (req, res) => {
+  res.send('Hello World!')
+})
+
+app.listen(port, () => {
+  console.log(`Example app listening at http://localhost:${port}`)
+})
 
 
 require("./Events/logger.js")(client)
