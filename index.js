@@ -6,13 +6,6 @@ const client = new Client({ partials: ["MESSAGE", "CHANNEL", "REACTION"] });
 
 const mongoose = require("mongoose")
 
-const express = require('express')
-const app = express()
-const port = 3000
-
-app.get('/', (req, res) => {
-  res.sendFile('./index.php')
-})
 
 mongoose.connect(process.env.url, { useNewUrlParser: true, useUnifiedTopology: true })
 
