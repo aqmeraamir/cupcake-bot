@@ -11,7 +11,7 @@ const app = express()
 const port = 3000
 
 app.get('/', (req, res) => {
-  res.sendFile('/home/runner/public/index.html')
+  res.sendFile('./index.html')
 })
 
 mongoose.connect(process.env.url, { useNewUrlParser: true, useUnifiedTopology: true })
