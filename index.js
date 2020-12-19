@@ -12,13 +12,13 @@ mongoose.connect(process.env.url, { useNewUrlParser: true, useUnifiedTopology: t
 const mongoCurrency = require('discord-mongo-currency');
  
 mongoCurrency.connect(process.env.url);
-const express = require('express')
+/*const express = require('express')
 const app = express()
 const port = 3000
 
 app.get('/', (req, res) => {
   res.sendFile("./index.php")
-})
+})*/
 
 
 

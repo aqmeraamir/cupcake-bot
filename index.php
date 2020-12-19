@@ -1,3 +1,8 @@
+<?php 
+        $title = "Index";
+?>
+
+
 <!DOCTYPE html>
 <html>
 <body>
