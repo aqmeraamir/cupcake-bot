@@ -63,7 +63,7 @@ client.on("message", async message => {
 
 client.on("ready", () => {
     client.log("Now Online!")
-    client.user.setActivity("!help | V1.0.0", "dnd");
+    client.user.setActivity("+help | V1.1.0", "dnd");
     
  
     
