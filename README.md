@@ -1,12 +1,12 @@
 # Cupcake Bot
 
 Cupcake Bot is a Discord bot project designed to enhance your Discord server with various features and utilities. Whether you're looking for moderation tools, fun commands, or information retrieval, Cupcake Bot has got you covered!
-However, this project is not fully finished and I don't intend on working on it. Initially it was designed to run as a dedicated, full-time bot. Now, Cupcake Bot is a functional abondened project that anyone can freely utilize for their own purposes.
+However, this project is not fully finished and I don't intend on working on it. Initially it was designed to run as a dedicated, full-time bot. Now, Cupcake Bot is a functional abandoned project that anyone can freely utilize for their own purposes.
 
 ## Features
 
 - Moderation commands to keep your server safe and secure.
-- Fun and interactive commands for entertainment.
+- Fun and interactive commands for entertainment (a whole currency system with games).
 - Customizable settings to tailor the bot to your server's needs, for example, a changeable prefix.
 
 ## Usage
@@ -21,8 +21,7 @@ Cupcake Bot supports a wide range of commands to enhance your Discord experience
 - `!help`: Display the list of available commands.
 - `!kick [user] [reason]`: Kick a user from the server.
 - `!ban [user] [reason]`: Ban a user from the server.
-- `!play [song]`: Play a song in a voice channel.
-- `!weather [location]`: Retrieve the weather forecast for a specific location.
+
 
 Refer to the bot's command help for a complete list of commands and their usage.
 
