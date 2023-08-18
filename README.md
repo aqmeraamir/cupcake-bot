@@ -9,9 +9,9 @@ I made this a couple of years ago, and I don't intend on working on it anymore. 
 
 Here are some screenshots of the bot in action:
 
-![Screenshot 2023-08-19 023036](https://github.com/aqmeraamir/cupcake-bot/assets/59936217/a32a94d3-6ce1-440e-8ed7-8a517d4e3800) ![Screenshot 2023-08-19 023250](https://github.com/aqmeraamir/cupcake-bot/assets/59936217/068dfa8f-1904-4753-8bdb-1afc1e8f17b8)
+![Screenshot 2023-08-19 023036](https://github.com/aqmeraamir/cupcake-bot/assets/59936217/a32a94d3-6ce1-440e-8ed7-8a517d4e3800) ![Screenshot 2023-08-19 023223](https://github.com/aqmeraamir/cupcake-bot/assets/59936217/f03fb35f-98f3-4bcd-815c-5b003a3d857e)
 
-![Screenshot 2023-08-19 023223](https://github.com/aqmeraamir/cupcake-bot/assets/59936217/f03fb35f-98f3-4bcd-815c-5b003a3d857e)
+![Screenshot 2023-08-19 023250](https://github.com/aqmeraamir/cupcake-bot/assets/59936217/068dfa8f-1904-4753-8bdb-1afc1e8f17b8) 
 
 
 
