@@ -1,11 +1,12 @@
 # Cupcake Bot
 
 Cupcake Bot is a Discord bot project designed to enhance your Discord server with various features and utilities. Whether you're looking for moderation tools, fun commands, or information retrieval, Cupcake Bot has got you covered!
-However, this project is not fully finished and I don't intend on working on it. Initially it was designed to run as a dedicated, full-time bot. Now, Cupcake Bot is a functional abandoned project that anyone can freely utilize for their own purposes.
+I made this a couple of years ago, and I don't intend on working on it anymore. So now, Cupcake Bot is just a functional abandoned project that anyone can freely utilize for their own purposes.
 
 ## Features
 
 - Moderation commands to keep your server safe and secure.
+- An entire currency system connected to mongodb.
 - Fun and interactive commands for entertainment (a whole currency system with games).
 - Customizable settings to tailor the bot to your server's needs, for example, a changeable prefix.
 
@@ -35,3 +36,4 @@ To set up Cupcake Bot for your own server, follow these steps:
 4. Configure the bot token and any other settings in the configuration file.
 5. Start the bot using `npm start`.
 
+*a couple of the packages are outdated now
