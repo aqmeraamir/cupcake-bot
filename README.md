@@ -2,7 +2,7 @@
 
 Cupcake Bot is a Discord bot project designed to enhance your Discord server with various features and utilities. Whether you're looking for moderation tools, fun commands, or information retrieval, Cupcake Bot has got you covered!
 
-I made this a couple of years ago, and I don't intend on working on it anymore. So now, Cupcake Bot is just a functional abandoned project that anyone can freely utilize for their own purposes. While it was hosted, active and at its peak it was in over 30 servers and had 50k+ users!
+I made this a couple of years ago (when i was like 13), and I don't intend on working on it anymore. So now, Cupcake Bot is just a functional abandoned project that anyone can freely utilize for their own purposes. While it was hosted, active and at its peak it was in over 30 servers and had 50k+ users!
 
 ![Screenshot 2023-08-19 023526](https://github.com/aqmeraamir/cupcake-bot/assets/59936217/8ae3e239-eda6-4860-b1a7-2f5dfc304eda)
 
