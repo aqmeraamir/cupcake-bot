@@ -4,17 +4,16 @@ Cupcake Bot is a Discord bot project designed to enhance your Discord server wit
 
 I made this a couple of years ago (when i was like 13), and I don't intend on working on it anymore. So now, Cupcake Bot is just a functional abandoned project that anyone can freely utilize for their own purposes (prob wouldn't work with latest discord.js). While it was hosted, active and at its peak it was in over 30 servers and had 50k+ users
 
-![Screenshot 2023-08-19 023526](https://github.com/aqmeraamir/cupcake-bot/assets/59936217/8ae3e239-eda6-4860-b1a7-2f5dfc304eda)
+</br>
 
+<div align="center">
+<img src="https://github.com/aqmeraamir/cupcake-bot/assets/59936217/8ae3e239-eda6-4860-b1a7-2f5dfc304eda" alt="1" width=460 height=500></img>
+<img src="https://github.com/aqmeraamir/cupcake-bot/assets/59936217/a32a94d3-6ce1-440e-8ed7-8a517d4e3800" alt="2" width=460 height=500></img>
 
-Here are some screenshots of the bot in action:
-
-![Screenshot 2023-08-19 023036](https://github.com/aqmeraamir/cupcake-bot/assets/59936217/a32a94d3-6ce1-440e-8ed7-8a517d4e3800)
-
-![Screenshot 2023-08-19 023250](https://github.com/aqmeraamir/cupcake-bot/assets/59936217/068dfa8f-1904-4753-8bdb-1afc1e8f17b8) 
-
-![Screenshot 2023-08-19 023223](https://github.com/aqmeraamir/cupcake-bot/assets/59936217/f03fb35f-98f3-4bcd-815c-5b003a3d857e)
-
+  
+<img src="https://github.com/aqmeraamir/cupcake-bot/assets/59936217/068dfa8f-1904-4753-8bdb-1afc1e8f17b8" alt="3" width=460 height=500></img>
+<img src="https://github.com/aqmeraamir/cupcake-bot/assets/59936217/f03fb35f-98f3-4bcd-815c-5b003a3d857e" alt="4" width=460 height=500></img>
+</div>
 
 
 ## Features
