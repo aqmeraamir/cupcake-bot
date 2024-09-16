@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "canvas": "^2.6.1",
+    "canvas": "^2.11.2",
     "canvas-constructor": "^4.1.0",
     "chalk": "^4.1.0",
     "discord-mongo-currency": "^1.0.4",
